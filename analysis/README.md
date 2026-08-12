@@ -9,4 +9,6 @@ This directory contains comparison data and, later, detailed analysis of finding
 - Windows 11 unauthenticated: 24 findings
 - Windows 11 authenticated: 99 findings
 
-Detailed severity and plugin analysis will be added after the raw Nessus reports are placed in the corresponding report folders.
+## Findings Comparison
+
+![Nessus findings comparison](./nessus_findings_authenticated_vs_unauthenticated.png)
